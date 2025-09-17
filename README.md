@@ -12,11 +12,11 @@
 
 # Model Overview
 
-![Pipeline](C:\Users\34110\Desktop\Pipeline.png)
+![Pipeline](assets/Pipeline.png)
 
 # Image Results
 
-![Qualitative](C:\Users\34110\Desktop\Qualitative.png)
+![Qualitative](assets/Qualitative.png)
 
 # Getting Started
 
