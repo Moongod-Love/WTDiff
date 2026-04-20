@@ -2,7 +2,7 @@
 
 **WTDiff: High-Fidelity Weather Translation with One-Step Diffusion**
 
-*Zixuan Hua, Xun Fang, Xing Wei, Lihua Zhang*
+*Zixuan Hua, Xun Fang, Lihua Zhang*
 
 ## TODO
 
